@@ -1,3 +1,5 @@
+# Link to the project 
+https://simple-react-accordion-component.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
